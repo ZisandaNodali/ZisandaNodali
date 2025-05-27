@@ -24,15 +24,6 @@
 
 ---
 
-### 📌 Featured Projects
-Here are a few things I’ve worked on recently:
-
-- 🔗 [PlanIt](https://github.com/ZisandaNodali/PlanIt) – An event planner app with guest management and RSVP system  
-- 🔗 [CartoonifyApp](https://github.com/ZisandaNodali/CartoonifyApp) – A Tkinter GUI to turn images into cartoons using machine learning  
-- 🔗 [MyPortfolio](https://github.com/ZisandaNodali/MyPortfolio) – My personal portfolio website
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZisandaNodali&show_icons=true&theme=react" alt="Zisanda's GitHub stats" />
