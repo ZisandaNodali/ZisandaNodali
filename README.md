@@ -30,9 +30,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisandaNodali&layout=compact&theme=react" alt="Top languages" />
 </p>
-
----
-
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/zisanda-nodali)
-
