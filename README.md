@@ -8,7 +8,6 @@
 
 ### 👩‍💻 About Me
 - 🔭 I’m a **Software Developer** who loves building full-stack applications
-- ⚛️ I enjoy working with **React** for building interactive frontends
 - 📚 In my spare time, I like **reading books**
 - 🌱 Currently exploring more on full-stack tools and best practices
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/zisanda-nodali)
